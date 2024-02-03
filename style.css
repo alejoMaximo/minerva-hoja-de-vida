@@ -1,0 +1,36 @@
+img{
+    justify-content: center;
+    width: 250px;
+    height: 250px;
+    
+}
+
+
+h1{
+    text-align: center;
+}
+
+.datos{
+    text-align: center;
+    background-color: rgb(202, 201, 201);
+    font-size: 21px;
+
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+.social-icons i {
+    font-size: 2rem;
+    color: #5900e9;
+    padding: .8rem 2rem;
+    
+    
+}
+
